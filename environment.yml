@@ -1,0 +1,18 @@
+name: good_movie
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - imbalanced-learn=0.7.0
+  - jupyterlab~=3.0
+  - matplotlib=3.3.2
+  - nltk=3.5
+  - numpy=1.19.2
+  - pandas=1.1.5
+  - pandas-profiling=2.9.0
+  - ppscore=1.1.1
+  - python=3.7.9
+  - scikit-learn=1.0.1
+  - scipy=1.5.2
+  - seaborn=0.11.1
+  - shap=0.40.0
