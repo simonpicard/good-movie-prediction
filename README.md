@@ -1,5 +1,7 @@
 # good-movie-prediction
 
+A data science assignment I did in 2021.
+
 ## Quickstart
 
 ```
